@@ -9,7 +9,6 @@ Wrapper around camera effect winRT api's to provide a simple interface
 ```
 async protected override void OnNavigatedTo(NavigationEventArgs e)
         {
-            var framecount = 0;
             mc = new MediaCapture();
             await mc.InitializeAsync();
             //captureElement comes from <CaptureElement Name="captureElement"> in xaml file
