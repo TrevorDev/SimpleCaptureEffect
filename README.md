@@ -1,2 +1,2 @@
 # SimpleCaptureEffect
-Wrapper around camera effect api's to provide a simple interfacce
+Wrapper around camera effect winRT api's to provide a simple interface
