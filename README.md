@@ -1,5 +1,14 @@
 # SimpleCaptureEffect
 Wrapper around camera effect winRT api's to provide a simple interface
+
+### Useful links
+- [MediaCapture How to's](https://msdn.microsoft.com/en-us/library/windows/apps/mt244352.aspx)
+- [MediaCapture API](https://msdn.microsoft.com/library/windows/apps/br241124)
+- [Win2D docs](https://github.com/Microsoft/Win2D)
+- [Win2D Effects](http://microsoft.github.io/Win2D/html/N_Microsoft_Graphics_Canvas_Effects.htm)
+- [Lumia SDK effects](https://msdn.microsoft.com/en-us/library/dn859593.aspx)
+
+
 ### Installing Nuget Package and Dependencies
 - This requires your project to be a Windows 10 Universal App project
 - Right click project references -> Manage Nuget Packages
